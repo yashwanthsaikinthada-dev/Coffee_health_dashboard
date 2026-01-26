@@ -66,7 +66,7 @@ This dashboard demonstrates how interactive data visualization can uncover meani
 ------------------------------------------------------------
 👤 Author
 ------------------------------------------------------------
-Yashwanth Sai Kinthada  
+Bala Yashwanth Sai Kinthada  
 yashwanthsai5396.kinthada@gmail.com
 ------------------------------------------------------------
 
